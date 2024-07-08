@@ -7,7 +7,7 @@ body{
     background: radial-gradient(circle,#eeaeca 0%,#7899c1 100%);
 }
 .container{
-    border: #421866;
+    /* border: #421866; */
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     justify-content: center;
@@ -19,7 +19,7 @@ body{
     background:  #5d268a;
     gap: 5px;
     /* padding: 5px; */
-    margin: 10px;
+    margin: auto;
 }
 .input{
     margin: 10px;
